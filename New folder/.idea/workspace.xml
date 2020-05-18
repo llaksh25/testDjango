@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cc2ada5-e590-4fd5-805c-bf9f06a0c074" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="testDjango" />
+  </component>
+  <component name="ProjectId" id="1ZZDpfdJ5fKkshdfBgUWXIwenSq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="testDjango" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="testDjango" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.testDebugger">
+    <configuration name="testDebugger" type="PythonConfigurationType" factoryName="Python">
+      <module name="testDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Laxman\Envs\testDjangoEnv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="testDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.testDebugger" />
+      <item itemvalue="Python.views" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cc2ada5-e590-4fd5-805c-bf9f06a0c074" name="Default Changelist" comment="" />
+      <created>1585037906292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585037906292</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="0" key="#Unittests_in_testDjango" timestamp="1585409476328">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#Unittests_in_testDjango/0.0.1366.728@0.0.1366.728" timestamp="1585409476328" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586352791491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586352791491" />
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585238770357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585238770357" />
+    <state x="406" y="0" key="#views" timestamp="1585407443164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="0" key="#views/0.0.1366.728@0.0.1366.728" timestamp="1585407443164" />
+    <state width="908" height="466" key="DebuggerActiveHint" timestamp="1588676808647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="908" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1588676808647" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1585841840723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1585841840723" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585411332853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585411332853" />
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1588952286497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588952286497" />
+    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1588952286497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588952286497" />
+    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1588952286497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588952286497" />
+    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1588952286497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588952286497" />
+    <state width="1344" height="233" key="GridCell.Tab.1.bottom" timestamp="1588680026073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="233" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588680026073" />
+    <state width="1344" height="233" key="GridCell.Tab.1.center" timestamp="1588680026072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="233" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588680026072" />
+    <state width="1344" height="233" key="GridCell.Tab.1.left" timestamp="1588680026072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="233" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588680026072" />
+    <state width="1344" height="233" key="GridCell.Tab.1.right" timestamp="1588680026073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="233" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588680026073" />
+    <state x="344" y="0" key="SettingsEditor" timestamp="1585411173838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585411173838" />
+    <state x="322" y="68" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1588489889373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="68" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1366.728@0.0.1366.728" timestamp="1588489889373" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588923624573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588923624573" />
+    <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585478487701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1585478487701" />
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1587999889021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587999889021" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1588233432404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588233432404" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="request.data" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
